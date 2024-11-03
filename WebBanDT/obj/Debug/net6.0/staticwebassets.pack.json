@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebBanDT.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebBanDT.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\1.jpg",
+      "PackagePath": "staticwebassets\\image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\2.jpg",
+      "PackagePath": "staticwebassets\\image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\404.jpg",
+      "PackagePath": "staticwebassets\\image\\404.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\HnX90b.jpg",
+      "PackagePath": "staticwebassets\\image\\HnX90b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\banner.jpg",
+      "PackagePath": "staticwebassets\\image\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\banner01.jpg",
+      "PackagePath": "staticwebassets\\image\\banner01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\banner2.jpg",
+      "PackagePath": "staticwebassets\\image\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\ip11.jpg",
+      "PackagePath": "staticwebassets\\image\\ip11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\ip13promax.jpg",
+      "PackagePath": "staticwebassets\\image\\ip13promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\ip14.jpg",
+      "PackagePath": "staticwebassets\\image\\ip14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\ip14promax.jpg",
+      "PackagePath": "staticwebassets\\image\\ip14promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\ip15promax.jpg",
+      "PackagePath": "staticwebassets\\image\\ip15promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\media\\products\\28e58a72-9073-472f-99a2-2f55237a7f74_ip13promax.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\28e58a72-9073-472f-99a2-2f55237a7f74_ip13promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\media\\products\\44820345-2e5f-44af-8604-00d7ac8ad207_ip13.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\44820345-2e5f-44af-8604-00d7ac8ad207_ip13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\media\\products\\753cfa6f-3d73-4ec7-863e-58d328d28050_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\753cfa6f-3d73-4ec7-863e-58d328d28050_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\media\\products\\76e491f0-665c-4702-99bc-6e0b92616b61_ip14promax.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\76e491f0-665c-4702-99bc-6e0b92616b61_ip14promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trung\\source\\repos\\ThucTapCoSo2023\\WebBanDT\\WebBanDT\\wwwroot\\media\\products\\c8e70c03-6250-458c-8c95-caabc0f3245a_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c8e70c03-6250-458c-8c95-caabc0f3245a_2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebBanDT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebBanDT.props",
+      "PackagePath": "build\\WebBanDT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebBanDT.props",
+      "PackagePath": "buildMultiTargeting\\WebBanDT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebBanDT.props",
+      "PackagePath": "buildTransitive\\WebBanDT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
